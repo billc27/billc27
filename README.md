@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently a Final Year Computer Science student at the School of Electrical Engineering and Informatics (STEI), Bandung Institute of Technology (ITB).\
+💼 &nbsp;I'm currently a Data Engineering Manager at Procter & Gamble.\
+🎓 &nbsp;B.Sc. in Computer Science, Bandung Institute of Technology (ITB).\
 💡 &nbsp;I love exploring new technologies and tackling challenges.\
-🌱 &nbsp;I'm on track to learn more about Backend Engineering and Machine Learning.\
 ✉️ &nbsp;You can reach out to me at bill.clinton1024@gmail.com.
 
 <img alt="Coding" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400" align="right"/>
