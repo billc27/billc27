@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💼 &nbsp;I'm currently a Data Engineering Manager at Procter & Gamble.\
-🎓 &nbsp;B.Sc. in Computer Science, Bandung Institute of Technology (ITB).\
+🎓 &nbsp;B.Sc. in Computer Science, Bandung Institute of Technology (ITB)\
 💡 &nbsp;I love exploring new technologies and tackling challenges.\
 ✉️ &nbsp;You can reach out to me at bill.clinton1024@gmail.com.
 
